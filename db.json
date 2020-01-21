@@ -1,0 +1,5 @@
+{
+  "notification": [
+    { "id": 1, "title": "Notification", "message": "This is a background notification from cloud" }
+  ]
+}
